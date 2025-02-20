@@ -19,6 +19,9 @@ I'm a frontend developer who loves building smooth, responsive, and intuitive in
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnujR17&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AnujR17&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
